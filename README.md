@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a ai developer wo wowrk with ai . i use toatly 1.2 millio token for making one project <br>forntend i know these is small . i am a bca student of 1 year and little know about pograming language . <br>i am a 17 year old boy and doing ai and ml as a specification in bca <br>. i am a typer too my max speed is 40 nowdays <br>
+I am a ai developer wo wowrk with ai . I use toatly 1.2 millio token for making one project <br>forntend I know these is small . I am a bca student of 1 year and little know about pograming language . <br>I am a 17 year old boy and doing ai and ml as a specification in bca <br>. I am a typer too my max speed is 40 nowdays <br>
 
 
 ## 🌐 Socials:
@@ -7,15 +7,4 @@ i am a ai developer wo wowrk with ai . i use toatly 1.2 millio token for making 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aayusgupta123_max&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aayusgupta123_max&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aayusgupta123_max&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aayusgupta123_max&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=aayusgupta123_max&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

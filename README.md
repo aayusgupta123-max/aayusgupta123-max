@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a AI developer work with A.I. . I use toatly 1.2 millio token for making one project <br>forntend I know these is small but in these i dont complete fully forntend . These is a excepted  1.2 million  . I am a bca student of 1 year and little know about pograming language . <br>I am a 17 year old boy and doing artifical intelligent and machine learning  as a specification in bca <br>. I am a typer too my max speed is 40 nowdays <br>
+I am a AI developer work with A.I. . I use toatly 1.2 millio token for making one project <br>forntend I know these is small but in these i dont complete fully forntend . These is a excepted  1.2 million  . I am a bca student of 1 year and little know about pograming language . <br>I am a 18 year old boy and doing artifical intelligent and machine learning  as a specification in bca <br>. I am a typer too my max speed is 40 nowdays <br>
 
 
 ## 🌐 Socials:
